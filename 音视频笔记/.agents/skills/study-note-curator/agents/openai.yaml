@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习笔记整理"
+  short_description: "从学习对话提炼适合入门复习的笔记并写回学习清单文档"
+  default_prompt: "使用 -note-curator 从当前学习对话中提炼适合入门者复习的笔记，并更新 学习清单.md。"
